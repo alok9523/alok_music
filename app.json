@@ -35,7 +35,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb://Zaid:<zaid>@ac-xulp2fe-shard-00-00.h2ufuwu.mongodb.net:27017,ac-xulp2fe-shard-00-01.h2ufuwu.mongodb.net:27017,ac-xulp2fe-shard-00-02.h2ufuwu.mongodb.net:27017/?ssl=true&replicaSet=atlas-os6k82-shard-0&authSource=admin&retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
