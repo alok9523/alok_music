@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/alok9523/alok_music/edit/master/app.json",
         "required": true
       },
       "UPSTREAM_BRANCH": {
